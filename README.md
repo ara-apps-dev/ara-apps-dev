@@ -2,6 +2,9 @@
 
 I'm a passionate mobile developer with over 4 years of experience in crafting seamless experiences on both iOS and Android platforms. I specialize in native development for both ecosystems and have expertise in hybrid solutions using React Native and Flutter.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ara-apps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
 ## 🚀 Projects
 
 ### Project 1
