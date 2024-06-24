@@ -86,6 +86,14 @@
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/PHPMyAdmin-00529B?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PHPMyAdmin">
+  <img src="https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Espresso">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/XCTest-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="XCTest">
+  <img src="https://img.shields.io/badge/XCUITest-5A5A5A?style=for-the-badge&logo=xcode&logoColor=white" alt="XCUITest">
+  <img src="https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Test">
+  <img src="https://img.shields.io/badge/Integration_Testing-FFA100?style=for-the-badge&logo=flutter&logoColor=white" alt="Integration Testing">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Detox-7E57C2?style=for-the-badge&logo=detox&logoColor=white" alt="Detox">
 </p>
 
 <h2>🛠 Technologies</h2>
@@ -99,6 +107,16 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Provider-1D3557?style=for-the-badge&logoColor=white" alt="Provider">
+  <img src="https://img.shields.io/badge/Riverpod-8E2DE2?style=for-the-badge&logoColor=white" alt="Riverpod">
+  <img src="https://img.shields.io/badge/Bloc-4B86F1?style=for-the-badge&logoColor=white" alt="Bloc">
+</p>
+
+<h2>🚀 CI/CD and Automation</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Maestro-A5C9FF?style=for-the-badge&logo=maestro&logoColor=white" alt="Maestro">
 </p>
 
 <h2>👨‍💻 All of my projects are available at</h2>
