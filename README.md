@@ -135,5 +135,5 @@
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ara-apps-dev&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></p>
 
 <p align="left">
-  <a href="https://buymeacoffee.com/ara_apps_dev" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://buymeacoffee.com/ara_apps_dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
 </p>
