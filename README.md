@@ -17,7 +17,7 @@
 
 <h2>🔭 I’m currently working on</h2>
 <ul>
-  <li><a href="https://github.com/ara-apps-dev/movie-app-flutter">MOLO App with Flutter</a></li>
+  <li><a href="https://github.com/ara-apps-dev/molo-app">MOLO App with Flutter</a></li>
 </ul>
 
 <h2>📝 To-Do List</h2>
