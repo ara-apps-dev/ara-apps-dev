@@ -17,7 +17,16 @@
 
 <h2>🔭 I’m currently working on</h2>
 <ul>
-  <li><a href="https://github.com/ara-apps-dev/molo-app">MOLO App with Flutter</a></li>
+  <li><a href="https://github.com/ara-apps-dev/molo-app">MOLO App with Flutter</a>
+    <ul>
+      <li>Designing UI/UX : In Progress 🚧</li>
+      <li>Setting up the project structure : Todo ⏳</li>
+      <li>Implementing API integration : Todo ⏳</li>
+      <li>Developing core features : Todo ⏳</li>
+      <li>Writing tests : Todo ⏳</li>
+      <li>Preparing for first release : Todo ⏳</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>📝 To-Do List</h2>
