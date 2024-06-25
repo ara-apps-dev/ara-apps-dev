@@ -17,14 +17,14 @@
 
 <h2>🔭 I’m currently working on</h2>
 <ul>
-  <li><a href="https://github.com/ara-apps-dev/movie-app-flutter">Movie App with Flutter</a></li>
+  <li><a href="https://github.com/ara-apps-dev/movie-app-flutter">MOLO App with Flutter</a></li>
 </ul>
 
 <h2>📝 To-Do List</h2>
 
 <h3>In Progress</h3>
 <ul>
-  <li>Movie App with Flutter:
+  <li>MOLO App with Flutter:
     <ul>
       <li>Develop core functionalities</li>
     </ul>
@@ -33,7 +33,7 @@
 
 <h3>To Do</h3>
 <ul>
-  <li>Movie App with React Native (TypeScript & Redux):
+  <li>MOLO App with React Native (TypeScript & Redux):
     <ul>
       <li>Initial setup</li>
       <li>Develop core functionalities</li>
@@ -42,7 +42,7 @@
       <li>Testing and bug fixes</li>
     </ul>
   </li>
-  <li>Movie App with iOS Native (SwiftUI):
+  <li>MOLO App with iOS Native (SwiftUI):
     <ul>
       <li>Initial setup</li>
       <li>Develop core functionalities</li>
@@ -51,7 +51,7 @@
       <li>Testing and bug fixes</li>
     </ul>
   </li>
-  <li>Movie App with Android Native (Jetpack Compose):
+  <li>MOLO App with Android Native (Jetpack Compose):
     <ul>
       <li>Initial setup</li>
       <li>Develop core functionalities</li>
