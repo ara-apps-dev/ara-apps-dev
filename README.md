@@ -17,6 +17,23 @@
 
 <h2>🔭 I’m currently working on</h2>
 <ul>
+  <li><a href="https://github.com/ara-apps-dev/flutter-gutenberg-app">Gutenberg App</a>
+    <ul>
+      <li>Create UI/UX design using Figma: In Progress 🚧</li>
+      <li>Set up Flutter project structure : Todo ⏳</li>
+      <li>Implement state management using BLoC and GetIt : Todo ⏳</li>
+      <li>Design and implement task list screen : Todo ⏳</li>
+      <li>Implement CRUD functionality for tasks : Todo ⏳</li>
+      <li>Persist data using SQLite : Todo ⏳</li>
+      <li>Add task completion feature : Todo ⏳</li>
+      <li>Implement search functionality : Todo ⏳</li>
+      <li>Write unit and widget tests : Todo ⏳</li>
+      <li>Implement automation tests (integration and end-to-end tests using Maestro) : Todo ⏳</li>
+      <li>Prepare documentation : Todo ⏳</li>
+      <li>Implement GitHub Actions for Android deployment to Firebase : Todo ⏳</li>
+      <li>Deploy to Firebase for Android : Todo ⏳</li>
+    </ul>
+  </li>
   <li><a href="https://github.com/ara-apps-dev/molo-app">MOLO App with Flutter</a>
     <ul>
       <li>Designing UI/UX : In Progress 🚧</li>
@@ -33,10 +50,9 @@
 
 <h3>In Progress</h3>
 <ul>
-  <li>MOLO App with Flutter:
-    <ul>
-      <li>Develop core functionalities</li>
-    </ul>
+  <li><a href="https://github.com/ara-apps-dev/flutter-gutenberg-app">Gutenberg App</a>
+  </li>
+  <li><a href="https://github.com/ara-apps-dev/molo-app">MOLO App with Flutter</a>
   </li>
 </ul>
 
