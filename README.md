@@ -15,13 +15,9 @@
 
   <!-- right -->
   <span align="right">
+    <img align="right" src="https://img.shields.io/github/followers/ara-apps-dev?label=Followers&style=social" alt="GitHub Followers" align="right">
     <img align="right" src="https://komarev.com/ghpvc/?username=ara-apps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    &nbsp;
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ara-apps-dev.ara-apps-dev" />
-    &nbsp;
-    <a align="right" href="https://github.com/ara-apps-dev">
-      <img src="https://img.shields.io/github/followers/ara-apps-dev?label=Follow&style=social" alt="GitHub Followers" align="right">
-    </a>
   </span>
 </p>
 
@@ -151,6 +147,6 @@
 
 <hr>
 
-<p align="left">
+<p align="center">
   <a href="https://buymeacoffee.com/ara_apps_dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
 </p>
