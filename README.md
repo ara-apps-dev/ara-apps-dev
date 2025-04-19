@@ -14,10 +14,10 @@
   </a>
 
   <!-- right -->
-  <span align="right">
-    <img align="right" src="https://img.shields.io/github/followers/ara-apps-dev?label=Followers&style=social" alt="GitHub Followers" align="right">
-    <img align="right" src="https://komarev.com/ghpvc/?username=ara-apps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <span>
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ara-apps-dev.ara-apps-dev" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=ara-apps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    <img align="right" src="https://img.shields.io/github/followers/ara-apps-dev?label=Followers&style=social" alt="GitHub Followers" align="right">
   </span>
 </p>
 
@@ -148,5 +148,13 @@
 <hr>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/ara_apps_dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
+  <a href="https://buymeacoffee.com/ara_apps_dev" target="_blank">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://buymeacoffee.com/ara_apps_dev&size=200x200" alt="Buy Me A Coffee QR Code" style="height: 100px; width: 100px; margin-left: 10px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ara_apps_dev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+  </a>
 </p>
