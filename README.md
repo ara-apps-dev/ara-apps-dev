@@ -9,7 +9,7 @@
   <a href="https://github.com/ara-apps-dev">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://portfolio.ara-apps.dev">
+  <a href="https://ara-apps-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%2312529b.svg?&style=flat&logo=pixiv&logoColor=white" alt="Portfolio">
   </a>
 
